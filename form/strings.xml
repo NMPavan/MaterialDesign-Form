@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GradleBuild2</string>
+    <string name="full_name">Full Name*</string>
+    <string name="last_name">Last Name*</string>
+    <string name="gender">Gender*</string>
+    <string name="birth_date">Date of Birth*</string>
+    <string name="email">Email*</string>
+    <string name="address">Address*</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="about_me">About Me</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
